@@ -1,13 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
 /*
+*
 * ESTRUTURA DE DADOS & ALGORITMOS
 * Nome do Projecto: CONVERSOR DE MOEDAS
 * Dev name: Santos USSENE
 * Release version: 1.0 BETA - 27/05/2022
+*
 */
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <conio.h>
 
 int main(){
 
