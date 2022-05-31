@@ -8,7 +8,6 @@ Conversor de moeda simples que é desenvolvido em linguagem C. Um conversor de m
 
 Para começar a criar o Conversor de Moedas, devemos ter o ambiente de desenvolvimento em C pronto para uso. Além de ter o ambiente pronto, devemos conhecer bem os seguintes tópicos para estar em sintonia com o projecto: 
 
-
 **Operadores em C**
 
 **Caixa de comutação em C**
@@ -42,25 +41,25 @@ O sistema terá como entrada, as seguintes informações:
  
 A conversão será realizada dividindo o valor de cotação da moeda selecionada para conversão pelo valor a ser convertido em alguns casos, e em outros casos a multiplicação. O sistema retornará ao usuário as seguintes mensagens, dependendo de cada situação: O montante X (onde x é a moeda indicada) = Y (onde o y é o resultado da conversão), **Exemplo: 1 USD = 63.84 MZN**
 
-## DESCRIÇÃO
+## DESCRIÇÃO 
 
 O primeiro passo da conversão é a inserção do valor a ser convertido que será convertido para a moeda indicada, esse valor é armazenado na sua respectiva variável que será dividido pelo valor da cotação da moeda que está armazenado na constante, o resultado da operação e armazenado em uma outra variável e exibida na tela para o usuário.
 
-## ALGORITMO NARRATIVO
-
+## ALGORITMO NARRATIVO 
+ 
 - Pegue o valor em Metical a ser convertido
 - Divida o valor em Metical pelo valor do Dólar.
 
-## CONCLUSÃO
+## CONCLUSÃO 
 
 Este conversor de moedas desenvolvido na linguagem C, inclui um código-fonte bem detalhado e fácil de ser entendido.
 
-## Suporte
+## Suporte 
 
 Para suporte e mais, mande um email para ussene026@gmail.com
 
 
-## Licença
+## Licença 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
