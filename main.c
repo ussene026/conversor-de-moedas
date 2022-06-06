@@ -7,7 +7,7 @@
 * ESTRUTURA DE DADOS & ALGORITMOS
 * Nome do Projecto: CONVERSOR DE MOEDAS
 * Dev name: Santos USSENE
-* Release version: 1.0 BETA - 27/05/2022
+* Release version: 1.0 - 27/05/2022
 *
 */
 
