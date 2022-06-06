@@ -1,8 +1,6 @@
-
 # Conversor de Moedas
 
 Conversor de moeda simples que é desenvolvido em linguagem C. Um conversor de moeda é uma calculadora que converte o valor ou quantidade de uma moeda no valor ou quantidade relativa de outras moedas. Por exemplo, se estivéssemos nos Estados Unidos e desejássemos viajar para outro país, precisaríamos saber a taxa de conversão por dólar para a moeda do país.
-
 
 ## Introdução
 
@@ -57,7 +55,6 @@ Este conversor de moedas desenvolvido na linguagem C, inclui um código-fonte be
 ## Suporte 
 
 Para suporte e mais, mande um email para ussene026@gmail.com
-
 
 ## Licença 
 
