@@ -4,9 +4,10 @@
 
 /*
 *
-* ESTRUTURA DE DADOS & ALGORITMOS
+* ESTRUTURA DE DADOS & ALGORITMOS - Unilicungo
 * Nome do Projecto: CONVERSOR DE MOEDAS
 * Dev name: Santos USSENE
+* Devolped in Linux SO
 * Release version: 1.0 - 27/05/2022
 *
 */
