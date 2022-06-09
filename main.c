@@ -7,7 +7,7 @@
 * ESTRUTURA DE DADOS & ALGORITMOS - Unilicungo
 * Nome do Projecto: CONVERSOR DE MOEDAS
 * Dev name: Santos USSENE
-* Devolped in Linux SO
+* Developed in Linux Environment
 * Release version: 1.0 - 27/05/2022
 *
 */
