@@ -12,6 +12,8 @@ Para começar a criar o Conversor de Moedas, devemos ter o ambiente de desenvolv
 
 **Estruturas de decisão em C**
 
+**...**
+
 ## EXPLICAÇÃO
 
 Neste projecto, há um uso de instruções switch em C. O programa dá ao usuário a opção de conversão. Para este exemplo, tomamos quatro moedas que são Metical (MZN), Dólar Americano (USD), Rand (ZAR), Real Brasileiro (BRL) e Euro. Existem quatro casos para cada conversão de moeda. Podemos modificar o valor de uma moeda com o valor actual real.
