@@ -12,7 +12,6 @@ Para começar a criar o Conversor de Moedas, devemos ter o ambiente de desenvolv
 
 **Estruturas de decisão em C**
 
-**...**
 
 ## EXPLICAÇÃO
 
