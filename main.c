@@ -3,13 +3,13 @@
 #include <conio.h>
 
 /*
-*
+
 * ESTRUTURA DE DADOS & ALGORITMOS - Unilicungo
-* Nome do Projecto: CONVERSOR DE MOEDAS
+* Project name: CONVERSOR DE MOEDAS
 * Dev name: Santos USSENE
 * Developed in Linux Environment
 * Release version: 1.0 - 27/05/2022
-*
+
 */
 
 int main(){
