@@ -56,7 +56,7 @@ Este conversor de moedas desenvolvido na linguagem C, inclui um código-fonte be
 
 ## Suporte 
 
-Para suporte e mais, mande um email para ussene026@gmail.com
+Para suporte e mais, mande um email para ussene026@gmail.com / ussene026@hotmail.com
 
 ## Licença 
 
